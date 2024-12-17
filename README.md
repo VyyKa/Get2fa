@@ -46,10 +46,10 @@ python get_2fa_once.py
 
 #### Example:
 ```
-=== Tool Lấy Mã 2FA Tự Động ===
-Nhập secret key (khóa bí mật): JBSWY3DPEHPK3PXP
-[+] Mã 2FA hiện tại: 123456
-Chương trình kết thúc.
+=== Automatic get 2fa ===
+Enter secret key: JBSWY3DPEHPK3PXP
+[+] Current 2FA code: 123456
+End.
 ```
 
 ---
