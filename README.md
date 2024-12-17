@@ -26,8 +26,8 @@ pip install requests
 ### **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/2fa-code-retriever.git
-   cd 2fa-code-retriever
+   git clone https://github.com/VyyKa/Get2fa.git
+   cd Get2fa.git
    ```
 
 2. Ensure dependencies are installed:
@@ -41,7 +41,7 @@ pip install requests
 Run the program using Python and provide your secret key when prompted:
 
 ```bash
-python get_2fa_once.py
+python 2fa.py
 ```
 
 #### Example:
