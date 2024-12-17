@@ -62,7 +62,7 @@ End.
 ---
 
 ### **Code Structure**
-- `get_2fa_once.py` - Main script that fetches and displays the TOTP code.
+- `2fa.py` - Main script that fetches and displays the TOTP code.
 
 ---
 
