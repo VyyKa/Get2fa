@@ -84,6 +84,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 ### **Author**
-Name: VyyKa
-Role: 3rd-year student at FPT University
-Skills: Python, Java, Pentest
+- Name: VyyKa
+- Role: 3rd-year student at FPT University
+- Skills: Python, Java, Pentest
